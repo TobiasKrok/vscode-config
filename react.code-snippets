@@ -1,0 +1,17 @@
+	"Create React Component" : {
+	  "scope": "javascript,typescript,typescriptreact,javascriptreact",
+	  "prefix": "rsc",
+	  "body": [
+		  "import React from 'react';",
+		  "",
+		  "const $TM_FILENAME_BASE:$1 = () => {",
+		  "\n",
+		  "\treturn (",
+		  "\t\t<div> Hello </div>",
+		  "\t);",
+		  "};",
+		  "",
+		  "export default $TM_FILENAME_BASE;"
+	],
+	"description": "Creates a react component with the file name as component name"
+}
